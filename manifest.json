@@ -1,0 +1,12 @@
+{
+  "name": "Restyle Google Chat",
+  "version": "1.0",
+  "description": "Restyles Google Chat in the style of Workplace by Facebook",
+  "content_scripts": [
+    {
+      "matches": ["https://chat.google.com/*"], 
+      "css" : ["styles.css"]
+    }
+  ],
+  "manifest_version": 2
+}

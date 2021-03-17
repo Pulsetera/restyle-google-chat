@@ -1,0 +1,108 @@
+/* Row */
+.DLc2vb .WQKmIb .ajCeRb:not(.zzVqCe) {
+  padding-top: 3px !important;
+}
+
+/* Hover menu */
+.DLc2vb .HO0hcf {
+  right: 0 !important;
+}
+
+/* Message profile pic */
+.DLc2vb .iXHk0b {
+  flex-direction: column-reverse;
+  margin-bottom: 2px !important; /* To match message bubble margin-bottom */
+}
+
+/* Message author */
+.DLc2vb .McQwEc .njhDLd {
+  color: rgb(138, 141, 145) !important;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular",
+    sans-serif !important;
+  font-weight: normal !important;
+  font-size: 12px !important;
+  line-height: 1.333 !important;
+}
+
+/* Message metadata bottom margin */
+.DLc2vb .McQwEc .NGoCob {
+  padding-left: 18px !important;
+  padding-bottom: 0 !important;
+}
+
+/* Message time position */
+.DLc2vb .McQwEc .dAxhmf {
+  position: absolute;
+}
+
+/* Message time text */
+.DLc2vb .McQwEc .FvYVyf {
+  color: transparent !important;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular",
+    sans-serif !important;
+  font-size: 12px !important;
+  line-height: 1.333 !important;
+}
+
+/* Message time text (hover) */
+.DLc2vb .McQwEc:hover .FvYVyf {
+  color: rgb(138, 141, 145) !important;
+}
+
+/* Message bubble */
+.DLc2vb .iKCcE {
+  border-radius: 18px !important;
+  background-color: rgb(228, 230, 235) !important;
+  padding: 7px 13px 8px 13px;
+  margin-bottom: 2px !important;
+  width: auto !important;
+}
+
+/* Shrink bubbles to content */
+.DLc2vb .oGsu4 {
+  flex-grow: 0 !important;
+}
+
+/* Message bubble hover highlight */
+.DLc2vb .B8q9Gf {
+  background-color: transparent !important;
+}
+
+/* Message bubble text */
+.DLc2vb .Zc1Emd {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular",
+    sans-serif !important;
+  font-size: 15px;
+}
+
+/* Remove left-padding in the bubble */
+.DLc2vb .Hj5Fxb {
+  margin-left: 0 !important;
+}
+
+/* Remove more horizontal padding in the bubble */
+.DLc2vb .YJxKBc {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Remove bottom-padding in the bubble */
+.DLc2vb .XbbXmb:not(:last-child) .hu21Y {
+  margin-bottom: 0 !important;
+}
+
+/* Remove reactions bottom margin */
+.DLc2vb .FIgEvc {
+  margin-bottom: 0 !important;
+}
+
+/* Personal message bubble */
+.DLc2vb div[data-user-id="107264770388506707683"] .iKCcE {
+  background-color: rgb(55, 62, 76) !important;
+}
+
+/* Personal message bubble text */
+.DLc2vb div[data-user-id="107264770388506707683"] .Zc1Emd,
+.DLc2vb div[data-user-id="107264770388506707683"] .Z4BnXb {
+  color: #fff !important;
+}
